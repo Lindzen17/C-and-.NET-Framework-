@@ -1,0 +1,14 @@
+C:\Users\Zen\source\repos\Method Class\bin\Debug\net8.0\Method Class.exe
+C:\Users\Zen\source\repos\Method Class\bin\Debug\net8.0\Method Class.deps.json
+C:\Users\Zen\source\repos\Method Class\bin\Debug\net8.0\Method Class.runtimeconfig.json
+C:\Users\Zen\source\repos\Method Class\bin\Debug\net8.0\Method Class.dll
+C:\Users\Zen\source\repos\Method Class\bin\Debug\net8.0\Method Class.pdb
+C:\Users\Zen\source\repos\Method Class\obj\Debug\net8.0\Method Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zen\source\repos\Method Class\obj\Debug\net8.0\Method Class.AssemblyInfoInputs.cache
+C:\Users\Zen\source\repos\Method Class\obj\Debug\net8.0\Method Class.AssemblyInfo.cs
+C:\Users\Zen\source\repos\Method Class\obj\Debug\net8.0\Method Class.csproj.CoreCompileInputs.cache
+C:\Users\Zen\source\repos\Method Class\obj\Debug\net8.0\Method Class.dll
+C:\Users\Zen\source\repos\Method Class\obj\Debug\net8.0\refint\Method Class.dll
+C:\Users\Zen\source\repos\Method Class\obj\Debug\net8.0\Method Class.pdb
+C:\Users\Zen\source\repos\Method Class\obj\Debug\net8.0\Method Class.genruntimeconfig.cache
+C:\Users\Zen\source\repos\Method Class\obj\Debug\net8.0\ref\Method Class.dll
