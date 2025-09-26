@@ -1,0 +1,14 @@
+C:\Users\Zen\source\repos\Operators Assignments\bin\Debug\net8.0\Operators Assignments.exe
+C:\Users\Zen\source\repos\Operators Assignments\bin\Debug\net8.0\Operators Assignments.deps.json
+C:\Users\Zen\source\repos\Operators Assignments\bin\Debug\net8.0\Operators Assignments.runtimeconfig.json
+C:\Users\Zen\source\repos\Operators Assignments\bin\Debug\net8.0\Operators Assignments.dll
+C:\Users\Zen\source\repos\Operators Assignments\bin\Debug\net8.0\Operators Assignments.pdb
+C:\Users\Zen\source\repos\Operators Assignments\obj\Debug\net8.0\Operators Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zen\source\repos\Operators Assignments\obj\Debug\net8.0\Operators Assignments.AssemblyInfoInputs.cache
+C:\Users\Zen\source\repos\Operators Assignments\obj\Debug\net8.0\Operators Assignments.AssemblyInfo.cs
+C:\Users\Zen\source\repos\Operators Assignments\obj\Debug\net8.0\Operators Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Zen\source\repos\Operators Assignments\obj\Debug\net8.0\Operators Assignments.dll
+C:\Users\Zen\source\repos\Operators Assignments\obj\Debug\net8.0\refint\Operators Assignments.dll
+C:\Users\Zen\source\repos\Operators Assignments\obj\Debug\net8.0\Operators Assignments.pdb
+C:\Users\Zen\source\repos\Operators Assignments\obj\Debug\net8.0\Operators Assignments.genruntimeconfig.cache
+C:\Users\Zen\source\repos\Operators Assignments\obj\Debug\net8.0\ref\Operators Assignments.dll

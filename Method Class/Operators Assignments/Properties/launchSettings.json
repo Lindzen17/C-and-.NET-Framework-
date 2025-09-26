@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Operators Assignments": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
