@@ -1,0 +1,12 @@
+C:\Users\Zen\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\CodeFirstStudentApp.exe.config
+C:\Users\Zen\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\CodeFirstStudentApp.exe
+C:\Users\Zen\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\CodeFirstStudentApp.pdb
+C:\Users\Zen\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\EntityFramework.dll
+C:\Users\Zen\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zen\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\EntityFramework.xml
+C:\Users\Zen\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zen\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.csproj.AssemblyReference.cache
+C:\Users\Zen\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\Zen\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\obj\Debug\CodeFirs.182B5343.Up2Date
+C:\Users\Zen\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.exe
+C:\Users\Zen\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.pdb
