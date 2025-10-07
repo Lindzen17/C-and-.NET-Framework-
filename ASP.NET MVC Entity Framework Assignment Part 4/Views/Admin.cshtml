@@ -1,0 +1,26 @@
+﻿@model IEnumerable<CarInsure.Models.Insuree>
+
+
+<h2>All Quotes (Admin)</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Quote</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        { 
+            <tr>
+                <td>@i.FirstName</td>
+                <td>@i.LastName</td>
+                <td>@i.EmailAddress</td>
+                <td>@i.Quote.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
